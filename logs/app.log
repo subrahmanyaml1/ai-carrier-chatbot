@@ -12,3 +12,94 @@
 2026-02-22 12:22:32,738 - INFO - Gemini API call successful and response processed.
 2026-02-22 12:22:32,739 - INFO - Response successfully generated.
 2026-02-22 12:22:32,742 - INFO - Response displayed successfully.
+2026-02-22 14:07:10,919 - INFO - Application started.
+2026-02-22 14:07:11,272 - INFO - CareerChatbot initialized.
+2026-02-22 14:07:11,272 - INFO - Chatbot initialized.
+2026-02-22 17:17:49,409 - INFO - Application started.
+2026-02-22 17:17:50,126 - INFO - CareerChatbot initialized.
+2026-02-22 17:17:50,127 - INFO - Chatbot initialized.
+2026-02-22 17:22:54,689 - INFO - Application started.
+2026-02-22 17:22:55,037 - INFO - CareerChatbot initialized.
+2026-02-22 17:22:55,037 - INFO - Chatbot initialized.
+2026-02-22 17:28:58,966 - INFO - Application started.
+2026-02-22 17:28:59,341 - INFO - CareerChatbot initialized.
+2026-02-22 17:28:59,342 - INFO - Chatbot initialized.
+2026-02-22 17:29:08,332 - INFO - Application started.
+2026-02-22 17:29:08,337 - INFO - User input received: I am a final year Computer Science student interested in AI and Data Science. What career path should I choose and what skills should I focus on?
+2026-02-22 17:29:08,670 - INFO - Processing user input.
+2026-02-22 17:29:08,670 - INFO - Gemini API call started.
+2026-02-22 17:29:36,190 - INFO - Gemini API call successful and response processed.
+2026-02-22 17:29:36,190 - INFO - Response successfully generated.
+2026-02-22 17:29:36,191 - INFO - Response displayed successfully.
+2026-02-22 17:29:43,884 - INFO - Application started.
+2026-02-22 17:29:43,898 - INFO - User input received: Based on that, what projects should I build in the next 3 months to strengthen my profile?
+2026-02-22 17:29:43,908 - INFO - Processing user input.
+2026-02-22 17:29:43,908 - INFO - Gemini API call started.
+2026-02-22 17:30:02,283 - INFO - Gemini API call successful and response processed.
+2026-02-22 17:30:02,283 - INFO - Response successfully generated.
+2026-02-22 17:30:02,286 - INFO - Response displayed successfully.
+2026-02-23 14:44:27,242 - INFO - Application started.
+2026-02-23 14:44:27,749 - INFO - CareerChatbot initialized.
+2026-02-23 14:44:27,750 - INFO - Chatbot initialized.
+2026-02-23 14:44:34,738 - INFO - Application started.
+2026-02-23 14:44:34,749 - INFO - Conversation cleared by user.
+2026-02-23 14:44:34,832 - INFO - Application started.
+2026-02-23 14:45:28,290 - INFO - Application started.
+2026-02-23 14:45:28,292 - INFO - User input received: i want to learn data science for my future  carrer it is good or not
+2026-02-23 14:45:29,766 - INFO - Processing user input.
+2026-02-23 14:45:29,767 - INFO - Gemini API call started.
+2026-02-23 14:45:47,591 - INFO - Gemini API call successful and response processed.
+2026-02-23 14:45:47,591 - INFO - Response successfully generated.
+2026-02-23 14:45:47,594 - INFO - Response displayed successfully.
+2026-02-23 14:47:08,669 - INFO - Application started.
+2026-02-23 14:48:33,559 - INFO - Application started.
+2026-02-23 14:48:33,576 - INFO - CareerChatbot initialized.
+2026-02-23 14:48:33,579 - INFO - Chatbot initialized.
+2026-02-23 14:50:46,770 - INFO - Application started.
+2026-02-23 14:50:46,782 - INFO - CareerChatbot initialized.
+2026-02-23 14:50:46,783 - INFO - Chatbot initialized.
+2026-02-23 14:54:19,629 - INFO - Application started.
+2026-02-23 14:54:19,652 - INFO - CareerChatbot initialized.
+2026-02-23 14:54:19,654 - INFO - Chatbot initialized.
+2026-02-23 14:55:55,202 - INFO - Application started.
+2026-02-23 14:55:55,576 - INFO - CareerChatbot initialized.
+2026-02-23 14:55:55,577 - INFO - Chatbot initialized.
+2026-02-23 14:56:28,626 - INFO - Application started.
+2026-02-23 14:56:28,909 - INFO - Processing user input.
+2026-02-23 14:56:28,909 - INFO - Gemini API call started.
+2026-02-23 14:56:41,159 - INFO - Gemini API call successful and response processed.
+2026-02-23 14:56:41,160 - INFO - Response successfully generated.
+2026-02-23 14:56:41,162 - INFO - Response displayed successfully.
+2026-02-23 14:57:00,170 - INFO - Application started.
+2026-02-23 14:57:00,472 - INFO - Processing user input.
+2026-02-23 14:57:00,472 - INFO - Gemini API call started.
+2026-02-23 14:58:29,360 - INFO - Gemini API call successful and response processed.
+2026-02-23 14:58:29,360 - INFO - Response successfully generated.
+2026-02-23 14:58:29,362 - INFO - Response displayed successfully.
+2026-02-23 15:01:07,540 - INFO - Application started.
+2026-02-23 15:01:07,648 - INFO - CareerChatbot initialized.
+2026-02-23 15:01:07,649 - INFO - Chatbot initialized.
+2026-02-23 15:02:46,912 - INFO - Application started.
+2026-02-23 15:02:47,025 - INFO - CareerChatbot initialized.
+2026-02-23 15:02:47,027 - INFO - Chatbot initialized.
+2026-02-23 15:05:09,642 - INFO - Application started.
+2026-02-23 15:05:09,752 - INFO - CareerChatbot initialized.
+2026-02-23 15:05:09,755 - INFO - Chatbot initialized.
+2026-02-23 15:06:59,851 - INFO - Application started.
+2026-02-23 15:06:59,963 - INFO - CareerChatbot initialized.
+2026-02-23 15:08:03,196 - INFO - Application started.
+2026-02-23 15:08:03,311 - INFO - CareerChatbot initialized.
+2026-02-23 15:08:27,869 - INFO - Application started.
+2026-02-23 15:08:28,005 - INFO - CareerChatbot initialized.
+2026-02-23 15:09:46,467 - INFO - Application started.
+2026-02-23 15:09:46,682 - INFO - Processing user input.
+2026-02-23 15:09:46,683 - INFO - Gemini API call started.
+2026-02-23 15:10:05,126 - INFO - Gemini API call successful and response processed.
+2026-02-23 15:10:05,127 - INFO - Response successfully generated.
+2026-02-23 15:13:45,254 - INFO - Application started.
+2026-02-23 15:13:45,369 - INFO - CareerChatbot initialized.
+2026-02-23 15:14:11,593 - INFO - Application started.
+2026-02-23 15:14:11,764 - INFO - Processing user input.
+2026-02-23 15:14:11,765 - INFO - Gemini API call started.
+2026-02-23 15:14:24,425 - INFO - Gemini API call successful and response processed.
+2026-02-23 15:14:24,425 - INFO - Response successfully generated.
